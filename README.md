@@ -1,0 +1,3 @@
+# so_long
+
+**so_long** is a project from the 42  designed to introduce students to graphical programming in C. The goal is to create a simple 2D game using the MiniLibX library, where the player navigates a map, collects items, and reaches an exit. The project emphasizes understanding event handling, window management, and basic game logic, while following strict coding standards and resource management practices.
